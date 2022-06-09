@@ -14,3 +14,7 @@ yarn-error.log
 /.vscode
 /public/docs
 /resources/docs
+/docker-compose
+/docker-compose/*
+/.scribe
+/.scribe/*
